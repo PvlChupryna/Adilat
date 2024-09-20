@@ -14,12 +14,10 @@
                 <hr>
             <ul>
                 <h4>Description:<h4>
-                <li>A landing page.</li>
-                <li>Practice in layout design.</li>
-                <li>Hover Effects</li>
+                <li>Menu Item Activation on Scroll</li>
                 <li>Sticky Header</li>
                 <li>Element Sorting</li>
-                <li>Menu Item Activation on Scroll</li>
+                <li>Hover Effects</li>
                 <li>Slider</li>
                 <li>No responsive design included.</li>
             </ul>
