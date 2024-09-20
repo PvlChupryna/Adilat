@@ -19,7 +19,8 @@
                 <li>Hover Effects</li>
                 <li>Sticky Header</li>
                 <li>Element Sorting</li>
-                <li>Element Sorting</li>
+                <li>Menu Item Activation on Scroll</li>
+                <li>Slider</li>
                 <li>No responsive design included.</li>
             </ul>
         </td>
